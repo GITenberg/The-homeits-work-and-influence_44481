@@ -1,0 +1,30 @@
+_repo: The-homeits-work-and-influence_44481
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44481-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gilman, Charlotte Perkins
+    aliases:
+    - Stetson, Charlotte Perkins
+    - Perkins, Charlotte Anna
+    birthdate: 1860
+    deathdate: 1935
+    gutenberg_agent_id: '27'
+    url: http://www.gutenberg.org/2009/agents/27
+    wikipedia: http://en.wikipedia.org/wiki/Charlotte_Perkins_Gilman
+description: ''
+gutenberg_issued: '2013-12-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44481'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'HQ'
+- !lcsh 'Home'
+title: 'The home: its work and influence'
+url: http://www.gutenberg.org/ebooks/44481
